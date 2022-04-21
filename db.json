@@ -6,8 +6,10 @@
       "user": 1
     }
   ],
-  "users": {
-    "id": 1,
-    "name": "João da Silva"
-  }
+  "users": [
+    {
+      "id": 1,
+      "name": "João da Silva"
+    }
+  ]
 }
