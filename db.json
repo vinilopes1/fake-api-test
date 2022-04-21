@@ -3,6 +3,9 @@
     {
       "id": 1,
       "title": "Hoje está um dia muito lindo!",
+      "comments": [
+        1
+      ],
       "user": 1
     }
   ],
@@ -10,6 +13,13 @@
     {
       "id": 1,
       "name": "João da Silva"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "user": "João da Silva",
+      "description": "Você tem razão!"
     }
   ]
 }
