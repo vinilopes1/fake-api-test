@@ -3,36 +3,42 @@
     {
       "id": 1,
       "title": "Dia cansativo... :(",
+      "publication_hour": "Há 20 minutos",
       "comments": 120,
       "user": 1
     },
     {
       "id": 2,
       "title": "De férias, só alegria!",
+      "publication_hour": "Há 5 horas",
       "comments": 12,
       "user": 2
     },
     {
       "id": 3,
       "title": "Me ajudem a escolher pessoal? #duvida",
+      "publication_hour": "Há 6 horas",
       "comments": 120,
       "user": 3
     },
     {
       "id": 4,
       "title": "O que gosto de fazer no tempo livre... :)",
+      "publication_hour": "Ontem",
       "comments": 30,
       "user": 3
     },
     {
       "id": 5,
       "title": "Voltando ao trabalho :/",
+      "publication_hour": "Há 2 dias",
       "comments": 12,
       "user": 1
     },
     {
       "id": 6,
       "title": "Hoje está um dia muito lindo! =D",
+      "publication_hour": "Há um Mês",
       "comments": 56,
       "user": 2
     }
