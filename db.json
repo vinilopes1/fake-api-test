@@ -4,6 +4,7 @@
       "id": 1,
       "title": "Dia cansativo... :(",
       "publication_hour": "Há 20 minutos",
+      "image": "https://independenciaemp.com.br/assets/site/img/large-quemsomos-escritorio.jpg",
       "comments": 120,
       "user": 1
     },
@@ -11,6 +12,7 @@
       "id": 2,
       "title": "De férias, só alegria!",
       "publication_hour": "Há 5 horas",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/07/9d/61/9b/the-reserve-at-paradisus.jpg",
       "comments": 12,
       "user": 2
     },
@@ -18,6 +20,7 @@
       "id": 3,
       "title": "Me ajudem a escolher pessoal? #duvida",
       "publication_hour": "Há 6 horas",
+      "image": "https://www.casinhaarrumada.com/wp-content/uploads/2018/11/cabide-ideal-para-cada-tipo-de-roupa.jpg",
       "comments": 120,
       "user": 3
     },
@@ -25,6 +28,7 @@
       "id": 4,
       "title": "O que gosto de fazer no tempo livre... :)",
       "publication_hour": "Ontem",
+      "image": "https://musicanolar.com.br/wp-content/uploads/2019/01/47084-1024x683.jpg",
       "comments": 30,
       "user": 4
     },
@@ -32,6 +36,7 @@
       "id": 5,
       "title": "Voltando ao trabalho :/",
       "publication_hour": "Há 2 dias",
+      "image":"https://bettiolmoveis.com.br/wp-content/uploads/2018/11/Mesa-de-Escritorio-em-L-768x512.jpg",
       "comments": 12,
       "user": 5
     },
@@ -39,6 +44,7 @@
       "id": 6,
       "title": "Hoje está um dia muito lindo! =D",
       "publication_hour": "Há um Mês",
+      "image": "https://www.jornalbomdia.com.br/tb_noticias/38303/geada%20tres.jpg",
       "comments": 56,
       "user": 6
     }
