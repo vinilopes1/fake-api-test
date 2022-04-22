@@ -26,21 +26,21 @@
       "title": "O que gosto de fazer no tempo livre... :)",
       "publication_hour": "Ontem",
       "comments": 30,
-      "user": 3
+      "user": 4
     },
     {
       "id": 5,
       "title": "Voltando ao trabalho :/",
       "publication_hour": "Há 2 dias",
       "comments": 12,
-      "user": 1
+      "user": 5
     },
     {
       "id": 6,
       "title": "Hoje está um dia muito lindo! =D",
       "publication_hour": "Há um Mês",
       "comments": 56,
-      "user": 2
+      "user": 6
     }
   ],
   "users": [
@@ -57,6 +57,22 @@
     {
       "id": 3,
       "name": "Paula Maria",
+      "avatar": "https://media-exp1.licdn.com/dms/image/C4E0BAQE1Pxtf7O6Y2Q/company-logo_200_200/0/1639493571700?e=2147483647&v=beta&t=HuNc6z7gWo_goH94UgyJt-nUYPFtOvC4lnt1CYXc8lk"
+    },
+    {
+      "id": 4,
+      "name": "Cássio Guimarães",
+      "avatar": "https://media-exp1.licdn.com/dms/image/C4E0BAQE1Pxtf7O6Y2Q/company-logo_200_200/0/1639493571700?e=2147483647&v=beta&t=HuNc6z7gWo_goH94UgyJt-nUYPFtOvC4lnt1CYXc8lk"
+    }
+    ,
+    {
+      "id": 5,
+      "name": "Gustavo Macedo",
+      "avatar": "https://media-exp1.licdn.com/dms/image/C4E0BAQE1Pxtf7O6Y2Q/company-logo_200_200/0/1639493571700?e=2147483647&v=beta&t=HuNc6z7gWo_goH94UgyJt-nUYPFtOvC4lnt1CYXc8lk"
+    },
+    {
+      "id": 6,
+      "name": "Sabrina Sampaio",
       "avatar": "https://media-exp1.licdn.com/dms/image/C4E0BAQE1Pxtf7O6Y2Q/company-logo_200_200/0/1639493571700?e=2147483647&v=beta&t=HuNc6z7gWo_goH94UgyJt-nUYPFtOvC4lnt1CYXc8lk"
     }
   ]
