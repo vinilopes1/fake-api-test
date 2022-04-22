@@ -46,33 +46,27 @@
   "users": [
     {
       "id": 1,
-      "name": "Josyane Cristina",
-      "avatar": "https://media-exp1.licdn.com/dms/image/C4E0BAQE1Pxtf7O6Y2Q/company-logo_200_200/0/1639493571700?e=2147483647&v=beta&t=HuNc6z7gWo_goH94UgyJt-nUYPFtOvC4lnt1CYXc8lk"
+      "name": "Josyane Cristina"
     },
     {
       "id": 2,
-      "name": "João da Silva",
-      "avatar": "https://media-exp1.licdn.com/dms/image/C4E0BAQE1Pxtf7O6Y2Q/company-logo_200_200/0/1639493571700?e=2147483647&v=beta&t=HuNc6z7gWo_goH94UgyJt-nUYPFtOvC4lnt1CYXc8lk"
+      "name": "João da Silva"
     },
     {
       "id": 3,
-      "name": "Paula Maria",
-      "avatar": "https://media-exp1.licdn.com/dms/image/C4E0BAQE1Pxtf7O6Y2Q/company-logo_200_200/0/1639493571700?e=2147483647&v=beta&t=HuNc6z7gWo_goH94UgyJt-nUYPFtOvC4lnt1CYXc8lk"
+      "name": "Paula Maria"
     },
     {
       "id": 4,
-      "name": "Cássio Guimarães",
-      "avatar": "https://media-exp1.licdn.com/dms/image/C4E0BAQE1Pxtf7O6Y2Q/company-logo_200_200/0/1639493571700?e=2147483647&v=beta&t=HuNc6z7gWo_goH94UgyJt-nUYPFtOvC4lnt1CYXc8lk"
+      "name": "Cássio Guimarães"
     },
     {
       "id": 5,
-      "name": "Gustavo Macedo",
-      "avatar": "https://media-exp1.licdn.com/dms/image/C4E0BAQE1Pxtf7O6Y2Q/company-logo_200_200/0/1639493571700?e=2147483647&v=beta&t=HuNc6z7gWo_goH94UgyJt-nUYPFtOvC4lnt1CYXc8lk"
+      "name": "Gustavo Macedo"
     },
     {
       "id": 6,
-      "name": "Sabrina Sampaio",
-      "avatar": "https://media-exp1.licdn.com/dms/image/C4E0BAQE1Pxtf7O6Y2Q/company-logo_200_200/0/1639493571700?e=2147483647&v=beta&t=HuNc6z7gWo_goH94UgyJt-nUYPFtOvC4lnt1CYXc8lk"
+      "name": "Sabrina Sampaio"
     }
   ]
 }
